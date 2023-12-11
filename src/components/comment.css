@@ -1,0 +1,26 @@
+
+.comment {
+    margin-top: 20px;
+  }
+  
+  .commentList {
+    margin-top: 10px;
+  }
+  
+  .commentItem {
+    margin-bottom: 10px;
+  }
+  
+  .commentForm {
+    margin-top: 10px;
+  }
+  
+  .commentForm textarea {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  .addcomment{
+    background-color:  rgb(144, 133, 119);
+    width: 200px;
+  }
+  
